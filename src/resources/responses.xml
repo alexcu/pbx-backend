@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<responses>
+    
+    <!-- WARNING! Do not misplace or edit file!        -->
+    <!--          This file is the last line of        -->
+    <!--          defence for any error(s) that        -->
+    <!--          are made by the PBXBackend so        -->
+    <!--          will be severe mishaps if so!        -->
+    
+    <!-- 100 Range: Code Error -->
+    <response id="PBX100">Internal Code Error</response>
+    
+    <!-- 200 Range: Success -->
+    <response id="PBX200">OK</response>
+    
+    <!-- 400 Range: User Input Errors -->
+    <response id="PBX401">Bad input was provided</response>
+
+    <!-- 500 Range: Internal Database Errors -->
+    <response id="PBX500">Internal Code-Based Issue: See Message</response>
+    <response id="PBX501">Database Connection Issue</response>
+    <response id="PBX502">Database Query Execution Issue</response>
+    <response id="PBX503">Failed to load Internal File</response>
+    
+    <!-- 600 Range: Authorisation Key Errors -->
+    <response id="PBX601">Key Generation Issue</response>
+    <response id="PBX602">Key Authorisation Issue</response>
+    <response id="PBX603">Key Provided was not properly hashed</response>
+    
+    <!-- 700 Range: Player Name Errors -->
+    <response id="PBX701">Player with that name already exists</response>
+    <response id="PBX702">Player name does not exist</response>
+    <response id="PBX703">Player name provided is inappropriate</response>
+    
+    <!-- 800 Range: Game Authorisation Error -->
+    <response id="PBX801">This game is not a Paperbox Game</response>
+    
+</responses>

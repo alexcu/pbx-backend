@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<achievement-list>
+
+    <!-- Achievements for game with ID TEST -->
+    <game id="TEST">
+        <achievement id="0" title="Farlap">Win the Melbourne Cup by a landslide</achievement>
+        <achievement id="1" title="Donkey Kong">Ride into the mountains on a donkey</achievement>
+        <achievement id="2" title="Woah the Hokey Pokey">Do the hokey pokey and turn around</achievement>
+        <achievement id="3" title="Travelling Gnome">Take a gnome into the eyeball</achievement>
+        <achievement id="4" title="Potato Muncher">Eat a potato and then chew it again</achievement>
+        <achievement id="5" title="Dr. I. Yankum">Smile while your teeth are being pulled out</achievement>
+        <achievement id="6" title="Milk Lover">Drink a carton of warm milk</achievement>
+        <achievement id="7" title="What is Pain?">Baby don't hurt me, don't hurt me, no more.</achievement>
+        <achievement id="8" title="Bappa-Dee Boop-Dee?">Grab a slice of pizza while on one leg</achievement>
+        <achievement id="9" title="Sit! Stay...">Make the dog beg for its dinner</achievement>
+        <achievement id="10" title="Energy Waster">Sleep with the fan running</achievement>
+        <achievement id="11" title="I Love Myki">Fare evade your next trip on the train</achievement>
+        <achievement id="12" title="So high right now...">Didn't forget to wear a towel</achievement>
+    </game>
+    
+    <game id="VIRA">
+        <achievement id="0" title="Farlap">Win the Melbourne Cup by a landslide</achievement>
+        <achievement id="1" title="Donkey Kong">Ride into the mountains on a donkey</achievement>
+        <achievement id="2" title="Woah the Hokey Pokey">Do the hokey pokey and turn around</achievement>
+        <achievement id="3" title="Travelling Gnome">Take a gnome into the eyeball</achievement>
+        <achievement id="4" title="Potato Muncher">Eat a potato and then chew it again</achievement>
+        <achievement id="5" title="Dr. I. Yankum">Smile while your teeth are being pulled out</achievement>
+        <achievement id="6" title="Milk Lover">Drink a carton of warm milk</achievement>
+        <achievement id="7" title="What is Pain?">Baby don't hurt me, don't hurt me, no more.</achievement>
+        <achievement id="8" title="Bappa-Dee Boop-Dee?">Grab a slice of pizza while on one leg</achievement>
+        <achievement id="9" title="Sit! Stay...">Make the dog beg for its dinner</achievement>
+        <achievement id="10" title="Energy Waster">Sleep with the fan running</achievement>
+        <achievement id="11" title="I Love Myki">Fare evade your next trip on the train</achievement>
+        <achievement id="12" title="So high right now...">Didn't forget to wear a towel</achievement>
+    </game>
+    
+    <game id="TRAF">
+        <achievement id="0" title="Farlap">Win the Melbourne Cup by a landslide</achievement>
+        <achievement id="1" title="Donkey Kong">Ride into the mountains on a donkey</achievement>
+        <achievement id="2" title="Woah the Hokey Pokey">Do the hokey pokey and turn around</achievement>
+        <achievement id="3" title="Travelling Gnome">Take a gnome into the eyeball</achievement>
+        <achievement id="4" title="Potato Muncher">Eat a potato and then chew it again</achievement>
+        <achievement id="5" title="Dr. I. Yankum">Smile while your teeth are being pulled out</achievement>
+        <achievement id="6" title="Milk Lover">Drink a carton of warm milk</achievement>
+        <achievement id="7" title="What is Pain?">Baby don't hurt me, don't hurt me, no more.</achievement>
+        <achievement id="8" title="Bappa-Dee Boop-Dee?">Grab a slice of pizza while on one leg</achievement>
+        <achievement id="9" title="Sit! Stay...">Make the dog beg for its dinner</achievement>
+        <achievement id="10" title="Energy Waster">Sleep with the fan running</achievement>
+        <achievement id="11" title="I Love Myki">Fare evade your next trip on the train</achievement>
+        <achievement id="12" title="So high right now...">Didn't forget to wear a towel</achievement>
+    </game>  
+          
+</achievement-list>
